@@ -7,7 +7,7 @@
 - **2.1. Ngôn ngữ lập trình**: Python
 - **2.2. Thư viện**: OpenCV
 
-## 3. Các Bước Trong Chu Trình Xây Dựng Thuật Toán Nhận Diện Khuôn Mặt
+## 3. Các Bước Trong Xây Dựng Thuật Toán Nhận Diện Khuôn Mặt
 
 ### 3.1. Nhận Diện Khuôn Mặt
 - **3.1.1. Mô tả**: Máy ảnh phát hiện và định vị hình ảnh của một khuôn mặt khi đối tượng ở một mình hoặc trong một đám đông.
